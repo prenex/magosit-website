@@ -1,0 +1,9 @@
+title: "MagosIT Kft"
+sub_title: "Egyedi és csúcsfejlesztések, tanácsadás, K+F"
+settings:
+  gm:
+    quality: 80
+  light_mode: true
+sections:
+  - type: subgal
+# vim: ts=8 et sw=4 sts=4
