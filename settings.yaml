@@ -4,6 +4,25 @@ settings:
   gm:
     quality: 80
   light_mode: true
+  reverse: true
 sections:
+  - type: full-picture
+    image: banner0.png
+    text:
+      title: MagosIT Kft
+      sub_title: "Egyedi és csúcsfejlesztések, tanácsadás, K+F"
+  - type: quote
+    text: "Látni, amit mindenki lát és olyat gondolni, amit senki sem gondolt még."
+  - type: header
+    text: "Szolgáltatások"
   - type: subgal
-# vim: ts=8 et sw=4 sts=4
+  - type: header
+    text: "Rólunk"
+  - type: paragraph
+    title: "Alapítók"
+    text: "...TODO..."
+  - type: paragraph
+    title: "Csapat"
+    text: "...TODO..."
+
+# vim: ts=8 et sw=2 sts=2
