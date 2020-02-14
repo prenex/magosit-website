@@ -5,6 +5,12 @@ settings:
     quality: 80
   light_mode: true
   reverse: true
+menu:
+  - about: "Rólunk"
+  - Csúcsfejlesztés: "Csúcsfejlesztés"
+  - Üzleti: "Üzleti"
+  - Szervezeti: "Szervezeti"
+  - http://twitter.com: "Twitter"
 sections:
   - type: full-picture
     image: banner0.png
