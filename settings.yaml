@@ -1,16 +1,10 @@
 title: "MagosIT Kft"
-sub_title: "Egyedi és csúcsfejlesztések, tanácsadás, K+F"
+sub_title: "Egyedi üzleti IT és csúcsfejlesztések, tanácsadás, K+F"
 settings:
   gm:
     quality: 80
-  light_mode: true
+  light_mode: false
   reverse: true
-menu:
-  - about: "Rólunk"
-  - Csúcsfejlesztés: "Csúcsfejlesztés"
-  - Üzleti: "Üzleti"
-  - Szervezeti: "Szervezeti"
-  - http://twitter.com: "Twitter"
 sections:
   - type: full-picture
     image: banner0.png
