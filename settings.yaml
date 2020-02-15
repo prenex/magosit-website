@@ -1,23 +1,36 @@
 title: "MagosIT Kft"
-sub_title: "Egyedi üzleti IT és csúcsfejlesztések, tanácsadás, K+F"
+sub_title: "Egyedi és csúcsfejlesztés, tanácsadás, K+F"
 settings:
   gm:
     quality: 80
   light_mode: false
   reverse: true
 sections:
+  - type: navmenu
+    home_text: "Főoldal"
+    contact_text: "Kapcsolat"
+    goto_text: "Ugrás"
+    facebook: "https://m.facebook.com/Magosit-Kft-108385110710092/"
+    linkedin: "https://www.linkedin.com/company/magosit-kft/"
+    twitter: "https://twitter.com/magosit3"
+    github: "https://github.com/prenex"
+    blog: "http://ballmerpeak.web.elte.hu/devblog/"
+    email: "magosit@outlook.hu"
+    phone: "+36 20 974 4324"
   - type: full-picture
     image: banner0.png
     text:
       title: MagosIT Kft
-      sub_title: "Egyedi és csúcsfejlesztések, tanácsadás, K+F"
+      sub_title: "Csúcsfejlesztés, üzleti szoftverfejlesztés, tanácsadás, K+F"
   - type: quote
     text: "Látni, amit mindenki lát és olyat gondolni, amit senki sem gondolt még."
   - type: header
     text: "Szolgáltatások"
+    menuid: 'services'
   - type: subgal
   - type: header
     text: "Rólunk"
+    menuid: "about"
   - type: paragraph
     title: "Alapítók"
     text: "...TODO..."

@@ -1,5 +1,5 @@
 title: Szervezeti
-sub_title: Oktatás, transzformáció, képzés, tanácsadás
+sub_title: Képzés, Pályázatírás, Agile, Lean
 date: 2020-01-03
 cover: organizational.png
 #light_mode: true
@@ -10,7 +10,7 @@ sections:
       title: ...TODO:...
       sub_title: ...TODO...
   - type: quote
-    text: "Nincs oly rakott szekér, melyre még egy villával ne férne."
+    text: "Szél a tölgyet ledönti, de a náddal nem bír."
 #  - type: full-picture
 #    image:
 #      name: video.mp4
