@@ -1,7 +1,9 @@
 title: Szervezeti
 sub_title: Képzés, Pályázatírás, Agile, Lean
-cover: organizational.png
 ord: "2"
+tags: ["Pályázatírás", "K+F tanácsadás", "Lean/Agile/Scrum oktatás", "Kreativitás fejlesztés(Radics módszertan)", "Lighweight és mikro-architektúra oktatás", "Frontend és backend oktatás", "Egészségügyi továbbképzések", "Automatizáció"]
+tags_as_list: true
+cover: organizational.png
 #light_mode: true
 sections:
   - type: full-picture
