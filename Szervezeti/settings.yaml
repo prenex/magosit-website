@@ -1,6 +1,7 @@
 title: Szervezeti
 sub_title: Képzés, Pályázatírás, Agile, Lean
 cover: organizational.png
+ord: "2"
 #light_mode: true
 sections:
   - type: full-picture
