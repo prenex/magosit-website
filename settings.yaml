@@ -32,7 +32,48 @@ sections:
   - type: header
     text: "Rólunk"
     menuid: "about"
-  - type: paragraph
+  - type: polaroid-group
+    images:
+      - name: cpp.png
+        text: "Modern C/C++"
+      - name: java.png
+        text: "Enterprise Java (JPA, EJB3, JSF2, AspectJ, REST)"
+      - name: linux.png
+        text: "Linux és nyílt forrású rendszerek"
+      - name: git.png
+        text: "Git (workflow, setup, hosting, advanced)"
+      - name: OSGI.jpg
+        text: "OSGi (equinox, felix)"
+      - name: c_sharp.png
+        text: "C#, .Net"
+      - name: unity.png
+        text: "Unity 3D játékmotor"
+      - name: godot.png
+        text: "Godot játékmotor"
+      - name: opengl.png
+        text: "OpenGL, OpenGL ES2, WebGL"
+      - name: directx.png
+        text: "Microsoft DirectX"
+      - name: blender.png
+        text: "Blender 3D modellezés"
+      - name: jenkins.png
+        text: "Devops, CI (Jenkins, Chef, Docker)"
+      - name: oracleplsql.webp
+        text: "SQL, Oracle, PL/SQL"
+      - name: optimization.jpg
+        text: "Kód optimizáció (Új algoritmusok, cache, assembly)"
+      - name: vuforia.png
+        text: "Vuforia"
+      - name: AR.jpg
+        text: "ARToolkit5"
+      - name: microservice.png
+        text: "Mikroszervíz, elosztott és párhuzamos programok"
+      - name: python.png
+        text: "Python (blender, flask, jinja2, REST)"
+      - name: html_css_js.png
+        text: "Modern web technológiák (Html5, CSS3, JS, ...)"
+      - name: android.png
+        text: "Android"
     title: "Alapítók"
     text: "...TODO..."
   - type: paragraph
