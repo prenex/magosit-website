@@ -33,153 +33,165 @@ sections:
     text: "Rólunk"
     menuid: "about"
   - type: paragraph
-    css:  "text-align:center;color:grey;margin-bottom:4vw;"
+    css:  "text-align:center;color:grey;margin-bottom:4vh;"
     title: "Programozási nyelvek"
   - type: polaroid-group
-    margin_bottom: 15vw
+    margin_bottom: 20vh
     images:
       - name: cpp.png
         x: 3vw
-        y: 0vw
+        y: 0vh
         w: 15vw
+        h: 30vh
         angle: 15
-        text: "Modern C++1x and C"
+        text: "Modern C++ és C"
       - name: java.png
         w: 30vw
-        h: 33vw
+        h: 60vh
         angle: -15
-        text: "Enterprise Java (JPA, EJB3, JSF2, AspectJ, REST)"
+        text: "Enterprise Java (JPA, EJB3, JSF2, AspectJ, MQ)"
       - name: c_sharp.png
-        x: 50vw
-        y: 15vw
+        x: 45vw
+        y: 35vh
         w: 15vw
-        angle: 35
+        h: 20vh
+        angle: 20
         text: "C#, .Net"
       - name: python.png
         x: 45vw
-        y: -6vw
+        y: -6vh
         w: 25vw
-        h: 20vw
+        h: 35vh
         angle: -25
-        text: "Python (flask, jinja2, REST-WS, Blender scripts)"
+        text: "Python (flask, jinja2, REST, Blender scripts)"
       - name: html_css_js.png
         x: 5vw
-        y: 20vw
-        w: 20vw
-        h: 20vw
-        angle: -35
-        text: "Web 5.0 (Html5, CSS3, JS, ...)"
+        y: 35vh
+        w: 23vw
+        h: 25vh
+        angle: -33
+        text: "Web 5.0 (Html5, CSS3, JS)"
   - type: paragraph
-    css:  "text-align:center;color:grey;margin-bottom:4vw;"
+    css:  "text-align:center;color:grey;margin-bottom:4vh;"
     title: "Modern Futtatókörnyezetek"
   - type: polaroid-group
-    margin_bottom: 15vw
+    margin_bottom: 20vh
     images:
       - name: android.png
         x: 3vw
-        y: 0vw
+        y: 0vh
         w: 15vw
+        h: 20vh
         angle: -15
         text: "Android"
       - name: linux.png
         w: 30vw
-        h: 33vw
+        h: 50vh
         angle: 15
         text: "Linux és nyílt forrású rendszerek"
       - name: oracleplsql.webp
-        x: 50vw
-        y: 5vw
+        x: 45vw
+        y: 3vh
         w: 15vw
+        h: 23vh
         angle: 35
         text: "SQL, Oracle, PL/SQL"
       - name: godot.png
         x: 5vw
-        y: 20vw
+        y: 20vh
         w: 20vw
-        h: 20vw
+        h: 25vh
         angle: -35
         text: "Godot játékmotor"
       - name: unity.png
         x: 42vw
-        y: 20vw
+        y: 25vh
         w: 16vw
+        h: 25vh
         angle: 5
         text: "Unity 3D játékmotor"
   - type: paragraph
-    css:  "text-align:center;color:grey;margin-bottom:4vw;"
+    css:  "text-align:center;color:grey;margin-bottom:4vh;"
     title: "Fejlett technológiák"
   - type: polaroid-group
-    margin_bottom: 15vw
+    margin_bottom: 20vh
     images:
       - name: AR.jpg
         x: 3vw
-        y: 0vw
+        y: 0vh
         w: 15vw
+        h: 30vh
         angle: -15
         text: "ARToolkit5"
       - name: opengl.png
         w: 40vw
-        h: 25vw
+        h: 43vh
         angle: 10
         text: "OpenGL, OpenGL ES2, WebGL"
       - name: vuforia.png
         x: 45vw
-        y: 5vw
-        w: 15vw
+        y: 15vh
+        w: 17vw
+        h: 21vh
         angle: 35
         text: "Vuforia"
       - name: directx.png
-        x: 5vw
-        y: 15vw
+        x: 3vw
+        y: 20vh
         w: 20vw
-        h: 20vw
+        h: 25vh
         angle: -35
         text: "Microsoft DirectX"
       - name: blender.png
         x: 15vw
-        y: 15vw
+        y: 25vh
         w: 15vw
+        h: 30vh
         angle: -12
         text: "Blender 3D modellezés"
       - name: git.png
         x: 37vw
-        y: 20vw
+        y: 25vh
         w: 16vw
+        h: 25vh
         angle: -5
         text: "Git (workflow, setup, hosting, advanced)"
   - type: paragraph
-    css:  "text-align:center;color:grey;margin-bottom:4vw;"
+    css:  "text-align:center;color:grey;margin-bottom:4vh;"
     title: "Fejlett megoldások"
   - type: polaroid-group
-    margin_bottom: 15vw
+    margin_bottom: 20vh
     images:
       - name: microservice.png
         x: 3vw
-        y: 3vw
-        w: 15vw
+        y: 5vh
+        w: 17vw
+        h: 35vh
         angle: 15
         text: "Mikroszervíz, elosztott és párhuzamos programok"
       - name: optimization.jpg
-        w: 30vw
+        w: 35vw
+        h: 45vh
         angle: -15
         text: "Kód optimizáció (Új algoritmusok, cache, assembly)"
       - name: OSGI.jpg
         x: 50vw
-        y: 12vw
-        w: 15vw
+        y: 22vh
+        w: 20vw
+        h: 35vh
         angle: 35
         text: "Komponensalapú fejlesztés (OSGi, Equinox, Apache felix)"
       - name: jenkins.png
         x: 45vw
-        y: -6vw
+        y: -6vh
         w: 25vw
-        h: 20vw
+        h: 30vh
         angle: -25
         text: "Devops, CI (Jenkins, Chef, Shell)"
     title: "Alapítók"
     text: "...TODO..."
   - type: paragraph
-    css:  "text-align:center;color:grey;margin-bottom:4vw;"
+    css:  "text-align:center;color:grey;margin-bottom:4vh;"
     title: "Alapítók"
     text: "...TODO..."
 
