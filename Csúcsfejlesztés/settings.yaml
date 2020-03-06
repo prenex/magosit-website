@@ -3,11 +3,11 @@ sub_title: AR/VR, 3D fejlesztés, Ipar 4.0, K+F
 ord: "0"
 tags: ["Ipar 4.0", "AI", "AR/VR", "Játékfejlesztés", "3D", "UX", "Innováció"]
 tags_as_list: true
-cover: meta2_nu.png
+cover: meta2_nu.jpg
 #light_mode: true
 sections:
   - type: full-picture
-    image: meta2_nu.png
+    image: meta2_nu.jpg
     text:
       title: Csúcsfejlesztés
       sub_title: ...TODO...

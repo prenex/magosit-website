@@ -19,7 +19,7 @@ sections:
     email: "magosit@outlook.hu"
     phone: "+36 20 974 4324"
   - type: full-picture
-    image: banner0.png
+    image: banner0.jpg
     text:
       title: MagosIT Kft
       sub_title: "Csúcsfejlesztés, üzleti szoftverfejlesztés, tanácsadás, K+F"
@@ -33,19 +33,48 @@ sections:
     text: "Rólunk"
     menuid: "about"
   - type: polaroid-group
+    margin_bottom: 15vw
     images:
       - name: cpp.png
-        text: "Modern C/C++"
+        x: 3vw
+        y: 0vw
+        w: 15vw
+        angle: 15
+        text: "Modern C++1x and C"
       - name: java.png
+        w: 30vw
+        h: 33vw
+        angle: -15
         text: "Enterprise Java (JPA, EJB3, JSF2, AspectJ, REST)"
+      - name: c_sharp.png
+        x: 50vw
+        y: 15vw
+        w: 15vw
+        angle: 35
+        text: "C#, .Net"
+      - name: python.png
+        x: 45vw
+        y: -6vw
+        w: 25vw
+        h: 20vw
+        angle: -25
+        text: "Python (flask, jinja2, REST-WS, Blender scripts)"
+      - name: html_css_js.png
+        x: 5vw
+        y: 20vw
+        w: 20vw
+        h: 20vw
+        angle: -35
+        text: "Web 5.0 (Html5, CSS3, JS, ...)"
+  - type: polaroid-group
+    margin_bottom: 15vw
+    images:
       - name: linux.png
         text: "Linux és nyílt forrású rendszerek"
       - name: git.png
         text: "Git (workflow, setup, hosting, advanced)"
       - name: OSGI.jpg
         text: "OSGi (equinox, felix)"
-      - name: c_sharp.png
-        text: "C#, .Net"
       - name: unity.png
         text: "Unity 3D játékmotor"
       - name: godot.png
@@ -68,10 +97,6 @@ sections:
         text: "ARToolkit5"
       - name: microservice.png
         text: "Mikroszervíz, elosztott és párhuzamos programok"
-      - name: python.png
-        text: "Python (blender, flask, jinja2, REST)"
-      - name: html_css_js.png
-        text: "Modern web technológiák (Html5, CSS3, JS, ...)"
       - name: android.png
         text: "Android"
     title: "Alapítók"

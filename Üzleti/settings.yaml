@@ -3,11 +3,11 @@ sub_title: Egyedi üzleti IT fejlesztések
 ord: "1"
 tags: ["Üzleti szoftverek", "Integráció", "Céges weboldalak", "Webtárhely", "Mikroszervíz fejlesztés", "CMS", "Legacy rendszerek", "CRM", "Mobilbarát oldalak", "Webshop", "E-learning", "Bestshore"]
 tags_as_list: true
-cover: business_python.png
+cover: business_python.jpg
 #light_mode: true
 sections:
   - type: full-picture
-    image: business_python.png
+    image: business_python.jpg
     text:
       title: ...TODO:...
       sub_title: ...TODO...
