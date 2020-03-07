@@ -130,7 +130,7 @@ sections:
         text: "OpenGL, OpenGL ES2, WebGL"
       - name: vuforia.png
         x: 45vw
-        y: 15vh
+        y: 22vh
         w: 17vw
         h: 21vh
         angle: 35
@@ -151,9 +151,9 @@ sections:
         text: "Blender 3D modellezés"
       - name: git.png
         x: 37vw
-        y: 25vh
+        y: 32vh
         w: 16vw
-        h: 25vh
+        h: 20vh
         angle: -5
         text: "Git (workflow, setup, hosting, advanced)"
   - type: paragraph
