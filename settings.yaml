@@ -188,11 +188,13 @@ sections:
         h: 30vh
         angle: -25
         text: "Devops, CI (Jenkins, Chef, Shell)"
-    title: "Alapítók"
-    text: "...TODO..."
   - type: paragraph
     css:  "text-align:center;color:grey;margin-bottom:4vh;"
     title: "Alapítók"
-    text: "...TODO..."
+  - type: paragraph
+    text: "Vállalatunk jelenleg saját erőből, külső üzleti célú befektetők nélkül, három családon belüli tulajdonossal működik. <b>Thier Richárd István (80%)</b> minősített többségi tulajdonosként és a fejlesztések, innovácók vezetőjeként személyes részvétellel is bekapcsolódik a fejlesztésekbe. Szakterületileg szerteágazó, üzleti alkalmazás fejlesztésen át kutatás fejlesztés és innováció területekig minden szakmai tevékenységben is érintett, a vállalat stratégiájának és alapvető üzleti képének kidolgozója. A vállalat alapítását megelőző évkben technikai vezetőként, pályázatíróként és intrapreneur-ként is végzett munkákat. <b>Thier Roland Tamás (15%)</b> második legnagyobb résztulajdonosként és társalapítóként az igényes fiatalos lendület megtestesítője, mindig fordulhatunk hozzá ipari, megjelenésbeli, design és zenei tanácsokért. <b>Thierné Dr. Papdi Gyöngyvér Enikő (5%)</b> társalapító és résztulajdonos hivatásos Neurológus orvosként több konferencián korábban sikeresen szereplő személyként kiváló tréning, működési és oktatási tanácsokkal segíti a vállalat működését."
+    image:
+      name: owners_tech.png
+      float: left
 
 # vim: ts=8 et sw=2 sts=2

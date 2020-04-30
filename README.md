@@ -17,12 +17,16 @@ Usage:
 		prosopopee (-h | --help)
 		prosopopee.py --version
 
+Before of course we need to actiate venv (after installation):
+
+		. .venv/bin/activate
+
 See:
 
 https://github.com/Psycojoker/prosopopee
 
-Done using venv
----------------
+Install using venv
+------------------
 
 		python3 -m venv <DIR>
 		source <DIR>/bin/activate
