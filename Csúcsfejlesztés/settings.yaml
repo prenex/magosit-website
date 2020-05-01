@@ -10,9 +10,47 @@ sections:
     image: meta2_nu.jpg
     text:
       title: Csúcsfejlesztés
-      sub_title: ...TODO...
+      sub_title: AR/VR, 3D fejlesztés, Ipar 4.0, K+F
   - type: quote
     text: "A határ a csillagos ég"
+  - type: bordered-picture
+#  - type: full-picture
+    image: industry40.jpg
+    text: "Digitalizáció, korszerűsítés, batch-size 1, ember-gép interakció"
+  - type: paragraph
+    css:  "text-align:justify;"
+    text: 'Az ipar 4.0 egy korunkban lezajló fejlődés a termelési folyamatokban. A legtöbben a jelenséget az IOT és összekapcsoltság ipari terjedésével írják le, de sajnos elterjedt a fogalmakkal való dobálózás is. Érdemes összefoglalni a valódi, üzleti értéket hordozó változásokat amelyek a termelés hatékonyságát ténylegesen is növelni tudják. Vállalatunk szívesen bekapcsolódik az itt leírtakoz köthető nagyobb hangvételű fejlesztésekbe kisebb feladatok részmegvalósítójaként, vagy segíti a kis és közepes beszállítókat eszközeik és módszereik esetleges modernizálásában, azonban itt a teljes fejlesztési területet bemutatjuk azon hiánypótló céllal, hogy sajnos igen kevés megfelelő minőségű és hiteles leírás érhető el ezen fejlesztési lehetőségekről.'
+  - type: paragraph
+    css:  "text-align:justify;"
+    title: Digitalizáció, korszerűsítés
+    text: "A kissé helytelen megfogalmazás (hiszen már jó ideje nem analóg elektronikát használunk) igazából a termelő egységek és gyárak további modernizációjának igényét takarja. Ezen ipari fejlődésben akár kisvállalati, vagy egyéni vállalkozásban működő beszállítóként is részt vehetünk, hiszen sok esetben a nagyobb gyárak beszállítói régi - bár megbízható és jó minőségű - gépekkel dolgoznak, amelyek bár képesek az adott feladat ellátására, de kényelmi szempontból nem mindig korszerűek. Egy kisvállalat, vagy egyéni vállalkozó számára ebben a helyzetben sokkal nehezebb egy modern gép beszerzése, hiszen komolyan mérhető összeget tesz ki a bevételeihez képest egy ilyen beruházás. A meglévő régi munkagép eközben a gyártásnak megfelelő minőséget képes előállítani, de például nem rendelkezik megfelelő méretű memóriával egy cnc program tárolására és körülményes az elavult interfészeken történő külső program-mentés és betöltés. Néhány ilyen és ehhez hasonló esetben megvalósítható ma már akár egyszerű fogyasztói elektronikai eszközökkel is a gépek részleges modernizációja, lehetővé téve például a progam sd kártyára történő mentését, vagy némely esetben akár a program nyelvének kiegészítését is!"
+  - type: paragraph
+    image:
+      name: wifi.jpg
+      float: left
+    css:  "text-align:justify;"
+    text: '"A Milennium Falcon a Star Warsban csak egy közönséges teherhajó volt, de megfelelő fejlesztésekkel ez lett az egész galaxis leggyorsabb űrhajója" - foglalta össze egy mondatban Tunkel Richárd, a Reach központi adatgyűjtő, adattároló és feldolgozó rendszer alapítója a napi.hu vonatkozó cikkében azt, hogy szerinte miért nem kell tartania a kis- és középvállalkozásoknak az it-fejlesztésektől. Fontos, hogy az ipar 4.0 fejlesztésekre józanul tekintsünk, de lássuk az elérhető célokat egy KKV esetén is!'
+  - type: paragraph
+    css:  "text-align:justify;"
+    text: "Általánosságban véve elmondható, hogy akár kisvállalatként működő beszállítók, akár nagy gyáregységek korszerűsítéséről van szó, több esetben elmondható, hogy <b>megjelennek olyan, a fogyasztói elekronikában már ismert megoldások</b> a gyártási és ipari körülmények között, mint a mobil, vagy mesterséges intelligencával bővített, esetleg IoT jellegű területeken már megismert módszerek."
+  - type: paragraph
+    css:  "text-align:justify;"
+    title: Tömeges egyedi gyártás, batch-size 1
+    text: "Az iparban már jelenleg is gépesített, digitális elektronikat használó, hatékony rendszerek működnek, melyek azonban főként a tömeges gyártás esetén képesek csak, úgynevezett magas batch-méret esetén olcsó gyártási költségeket eredményezni. Az ipar 4.0 változások egyik fő eleme az alacsony mennyiségben gyártott, egyedi termékek olcsó, a tömeggyártáshoz közeli áron történő előállítása, melyet 'batch size 1', 'setup time 0' illetve 'mass customization' (tömeges egyedi gyártás) névvel jelöl a szakirodalom. Ennek megvalósítása több pilléren nyugszik."
+  - type: paragraph
+    css:  "text-align:justify;"
+    text: "Ilyen <b>a gyártás alatt álló termék adathordozóval ellátása</b> amely a hagyományos eljáráshoz képest nem csak a hibák felderítésében, vagy a termék gyártási folyamatainak a követésében, de abban játszik szerepet, hogy leírja, hogy az adott gyártási ponton műveletet végző gép milyen lépéseket végez a termékkel (pl. robotvezérlő program kiválasztása). A módszer használatával a gyártási művelet beállítása nem igényel külön beavatkozást az egyedi alkatrészgyártás esetén sem. Természetesen ez a módszer nem minden munkafolyamattal egyeztethető össze - gondoljunk csak a szerszámkészítéshez szükséges erőforrásokra - azonban több gyártási területen sikeresen kialakultak ilyen a módszerek."
+  - type: paragraph
+    css:  "text-align:justify;"
+    text: "Egy másik hatékonyság növelő módszer a <b>lineáris szállító-rendszerek</b> használata, amely azon a megfigyelésen alapul, hogy a hagyományos futószalagos termelésnél a szalag sebességét meghatározza a leglassabb művelet, amely azonban azzal a mellékhatással jár, hogy a gyorsabb műveletek közötti pallet mozgatás is csak a szalag állandó sebessége mellett lehetséges. Moduláris gyártósorral kiküszöbölhetők ezek a várakozások - pl. akár egyszerű, a fő szalagot megbontó moduláris emelők és segédszalagok, önvezérlő szállítóegységek, vagy akár újszerű és alternatív mágneses lebegtetésen alapuló mozgatási technikák használatával."
+  - type: paragraph
+    css:  "text-align:justify;"
+    text: "A kis nagyságrendben is működő olcsó egyedi termelés igénye természetesen nem csak technikai, de gyártás-szervezési és értékesítési fejlődést is megkövetel, így például olyan új üzleti modellek bevezetését, mint az online B2C megrendelésre történő bérgyártás a pcbway, oneclickprint és hasonló, a végfelhasználókat és kisebb megrendelőket kielégító termelők online <b>webáruház jellegű gyártási szolgáltatás megrendelés</b> megoldásai."
+  - type: paragraph
+    css:  "text-align:justify;"
+    title: Ember-gép interakció
+    text: "Az ipar 4.0 fejlesztések talán leglátványosabb eleme az ember-gép interakció fejlődésében látható. Ezen a területen is szerteágazó eredmények érhetők tetten, kezdve az olyan fejlesztésekkel, mint a dolgozók felszerelését tároló szekrények mobiltelefonnal történő nyithatósága és igénybevétele, árukövetési információk mobil eszközön történő leolvashatósága, a szemmozgás figyelő és fáradtság-érzékelő rendszerek kritikus infrastruktúrák esetén, vagy az oktatást és szimulációt támogató AR/VR megoldások, mint például egy csarnok átalakításának szervezésekor, vagy új gép beszerzésekor a csarnokba mozgatás és elhelyezés méretarányos holografikus szimulációja a valós környezetben, vagy egy holografikus 3D szerelési útmutató a betanításhoz."
+    #text: "TODO: batch size 1, setup time 0, mass customization, tervek és utasítások a gyártott elemen, konzumer fejlesztési eredmények beépítése ipari használatra, linear motion system (lásd itt: https://community.boschrexroth.com/t5/Rexroth-Blog/Batch-size-1-setup-time-0/ba-p/130) - továbbá lásd (https://www.deutschland.de/en/topic/business/innovation-technology/networking-the-world)"
 #  - type: full-picture
 #    image:
 #      name: video.mp4
